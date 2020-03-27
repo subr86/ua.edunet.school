@@ -35,7 +35,7 @@ $string['prev_section'] = 'Previous section';
 $string['next_section'] = 'Next section';
 $string['search_site'] = 'Search on site';
 $string['search_forums'] = 'Search on course forums';
-$string['platform_access'] = 'Access to the platform';
+$string['platform_access'] = 'Доступ по платформи';
 $string['readmore'] = 'Read More';
 $string['stayintouch'] = 'Stay in touch';
 $string['madewitmoodle'] = 'Proudly made with';
@@ -280,4 +280,4 @@ $string['privacy:themeEdunetsettings_enableaccessibilitytoolbar'] = 'The current
 
 //Footer
 $string['contacts'] = 'Contacts';
-$string['headertitle'] = 'Live tuition with real teachers';
+$string['headertitle'] = '«Живі» уроки зі справжніми вчителями';
